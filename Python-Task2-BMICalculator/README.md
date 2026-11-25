@@ -1,7 +1,9 @@
 # BMI Calculator (Advanced Tier)
 
 **Oasis Infobyte Internship - Python Programming Track**
+
 **Task 2: BMI Calculator**
+
 **Intern:** Merajuddin Suhil Sarwar
 
 ## Description
